@@ -41,7 +41,6 @@ footer {
   float: right;
 }
 
-
 @media (max-width: 680px) {
   .logo {
     width: 100px;
@@ -59,7 +58,7 @@ footer {
     margin-bottom: 30px;
   }
 
-  .card image {
+  .card img {
     margin-bottom: 10px;
     display: inline;
     width: 100%;
